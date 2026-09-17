@@ -59,7 +59,7 @@ CREATE TABLE bookings (
 
 -- 6. APPROVAL
 
-CREATE TABLE APPROVAL (
+CREATE TABLE approval (
     id SERIAL PRIMARY KEY,
     approver_id INTEGER NOT NULL,
     booking_id INTEGER NOT NULL UNIQUE,
