@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS approval;
+DROP TABLE IF EXISTS bookings;
+DROP TABLE IF EXISTS maintenances;
+DROP TABLE IF EXISTS equipments;
+DROP TABLE IF EXISTS employees;
+DROP TABLE IF EXISTS categories;
